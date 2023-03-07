@@ -1,5 +1,5 @@
 FROM debian:latest
-LABEL MAINTAINER="https://github.com/XPH4N70M/XPHISHER"
+LABEL MAINTAINER="https://github.com/Hackerclown0/easyFish/"
 
 WORKDIR /Easyfish/
 ADD . /easyfish
