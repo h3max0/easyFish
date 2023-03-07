@@ -12,7 +12,7 @@ Installation
 
     Just, Clone this repository -
 
-$ git clone git://github.com/CyberTitus/easy.git
+$ git clone https://github.com/Hackerclown0/easyFish
 
     Change to cloned directory and run main.sh -
 
