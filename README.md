@@ -27,3 +27,5 @@ EasyFish requires following programs to run properly -
     wget
     curl
     git
+    
+    
